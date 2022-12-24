@@ -7,6 +7,6 @@ This google drive contains folders of each models we trained including .H5 file 
 
 2. Folder with name Skin cancer ISIC The International Skin Image Collaboration contains the actual Images.
 
-#mobilenet.yaml
+mobilenet.yaml
 
 this filecontain the enviorment used to run the models

@@ -9,4 +9,4 @@ This google drive contains folders of each models we trained including .H5 file 
 
 mobilenet.yaml
 
-this filecontain the enviorment used to run the models
+this file contains the enviroment used to run the models
